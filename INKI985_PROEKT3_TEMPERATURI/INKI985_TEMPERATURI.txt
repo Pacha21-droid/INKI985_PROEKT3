@@ -1,0 +1,10 @@
+Prilep - Denska: 13, Nokjna: 8
+Bitola - Denska: 13, Nokjna: 9
+Ohrid - Denska: 14, Nokjna: 10
+Struga - Denska: 14, Nokjna: 10
+Tetovo - Denska: 14, Nokjna: 10
+Gostivar - Denska: 14, Nokjna: 10
+Debar - Denska: 16, Nokjna: 9
+Negotino - Denska: 16, Nokjna: 11
+Kumanovo - Denska: 17, Nokjna: 10
+Veles - Denska: 17, Nokjna: 11
